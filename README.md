@@ -26,7 +26,7 @@ El usuario puede seleccionar productos a través de un menú interactivo en **Pr
 - **JavaScript (ES6+)**
 
 ## 📸 Vista Previa
-[![Ver Demo](https://via.placeholder.com/800x400?text=Haz+clic+para+ver+el+proyecto)](https://tu-usuario.github.io/nombre-del-repositorio/)
+[![Ver Demo](https://via.placeholder.com/800x400?text=Haz+clic+para+ver+el+proyecto)](https://nicolascochatok.github.io/PreEntrega1-js/))
 
 ## 📄 Licencia
 Este proyecto está bajo la **MIT License**. ¡Siéntete libre de usarlo y mejorarlo! 😃
